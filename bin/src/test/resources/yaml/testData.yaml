@@ -1,0 +1,39 @@
+verifyHeader:
+   text: JOIN OUR CREW
+
+filterQA:
+   filterby: Engineering
+   job: QA Engineer
+   
+verifyPageTitle:
+ title: Numadic Iot Pvt. Ltd. - QA Engineer in
+ 
+clickInterested:
+ text: Job application
+ 
+verifyValidation:
+ firstname: First Name cannot be empty.
+ lastname: Last Name cannot be empty.
+ email: Email cannot be empty.
+ mobile: Mobile cannot be empty.
+ employer: Current Employer cannot be empty.
+ job: Current Job Title cannot be empty.
+ currentctc: Current CTC cannot be empty.
+ expectedctc: Expected CTC cannot be empty.
+ noticeperiod: Notice Period (days) cannot be empty.
+ reason: Reason for change from current organization? cannot be empty.
+ resume: Resume cannot be empty.
+ 
+applcationFill:
+ firstname: rahul
+ lastname: parmar
+ email: rahulparmar@email.com
+ mobile: 9345111721
+ employer: techdome
+ job: quality analyst
+ currentctc: 4
+ expectedctc: 6
+ noticeperiod: 60
+ reason: better opportunity
+ resume: blank
+ 
